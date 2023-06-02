@@ -1,0 +1,42 @@
+.box-form{
+    position: absolute;
+    z-index: 1000;
+    opacity: 1;
+    
+}
+
+.inside-layout-form{
+    background-color: white;
+}
+
+.outside-layout-form{
+    display: hidden;
+   
+}
+
+.fc-view-harness .fc-view-harness-active{
+    z-index: -1;
+}
+
+.close{
+    position: absolute;
+    right: 70px;
+    top: 70px;
+}
+
+
+.context-menu {
+    position: absolute;
+    background-color: white;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 4px;
+  }
+  
+  .context-menu button {
+    display: block;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  

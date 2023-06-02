@@ -1,0 +1,7 @@
+@media (max-width: 1500px) {
+
+    .stats {
+      flex-direction: column;
+    }
+
+}
